@@ -1,9 +1,11 @@
+
 body{
 
     align-items: center;
     margin-left: 140px;
     margin-left: 150px;
   margin-right: 150px;
+  justify-content: space-between;
 }
 
 /* nav styles */
@@ -76,5 +78,5 @@ line-height: normal;
 .image{
     width: 800px;
 height: 500px;
-padding-left: 300px;
+padding-left: 390px;
 }
