@@ -1,0 +1,80 @@
+body{
+
+    align-items: center;
+    margin-left: 140px;
+    margin-left: 150px;
+  margin-right: 150px;
+}
+
+/* nav styles */
+.header {
+  background-image: url("../resources/Banner\ Image.png");
+  width: 1320px;
+  height: 600px;
+  align-items: center;
+  margin-top: 50px;
+  
+}
+.nav {
+  text-align: center;
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+}
+.nav-title {
+  padding-top: 170px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nav-title-2 {
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  padding-bottom: 200px;
+}
+
+
+/* main section style */
+.offer {
+  text-align: center;
+  font-family: Inter;
+  width: 1600px;
+height: 7335px;
+}
+.item-offer {
+
+  color: #f00;
+
+  font-size: 88px;
+ 
+  font-weight: 700;
+  line-height: normal;
+  margin-top: ;
+}
+.better-offer{
+
+    color: #F00;
+
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: normal;
+}
+.all-category{
+    
+    color: #070211;
+
+
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.image{
+    width: 800px;
+height: 500px;
+padding-left: 300px;
+}
